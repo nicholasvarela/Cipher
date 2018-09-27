@@ -39,7 +39,7 @@ public class Cipher {
         }
     }
     public static void main(String[] args) {
-        System.out.println("test");
+        System.out.println("test 9/26");
         char  primaryCommand = 'r';
         while(primaryCommand == 'r' || primaryCommand == 'e' ) {
             System.out.println();
